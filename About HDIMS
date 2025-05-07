@@ -1,0 +1,30 @@
+HDIMS (Health Data Insight & Management System) is a smart health data platform designed to simplify the collection, management, and analysis of anonymized patient records. Tailored for use by Government Officials, Hospital Administrators, and the Public, 
+HDIMS facilitates data-driven healthcare decisions and scheme allocation. It uses Excel files as a lightweight database and integrates Python tools for advanced analytics and visualization. With role-based access, users can interact with the system based on their 
+responsibilities—making it both secure and scalable for public health applications.
+
+🔑 Key Features
+Role-Based Access:
+
+Separate portals for Public, Government Officials, and Hospital Admins.
+
+Health Data Upload & Management:
+
+Hospital Admins can securely upload anonymized patient data.
+
+Data Visualization:
+
+Generate district-wise charts and graphs using Seaborn and Matplotlib.
+
+Scheme Recommendation:
+
+Government Officials can assign health schemes based on disease prevalence.
+
+Clustering with Machine Learning:
+
+Apply K-Means to identify patient clusters and support decision-making.
+
+Lightweight Storage:
+
+Uses Excel files for ease of use and portability.
+
+HDIMS serves as a foundation for smarter public health policy by turning raw data into clear, visual insights that support timely and targeted healthcare responses.
